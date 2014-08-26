@@ -1,0 +1,13 @@
+*~
+tmp/*
+.DS_Store
+*.class
+*.rbc
+#~
+~*
+/Gemfile.lock
+/.rvmrc
+/.bundle
+/.rspec
+.vagrant
+
